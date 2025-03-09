@@ -1,0 +1,49 @@
+/* Blog Post Page Styles */
+.blog-post {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.blog-post h2 {
+    margin-top: 0;
+}
+
+.blog-post .meta {
+    font-size: 0.9em;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+.blog-post .post-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.blog-post ol {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.blog-post ol li {
+    margin-bottom: 10px;
+}
+
+.back-to-home {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.back-to-home:hover {
+    background-color: #0056b3;
+}
